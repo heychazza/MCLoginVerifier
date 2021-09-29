@@ -1,0 +1,5 @@
+name: Usergg
+version: ${project.version}
+main: me.glaremasters.usergg.Usergg
+authors: [blockslayer22]
+description: User.GG Plugin

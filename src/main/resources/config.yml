@@ -1,0 +1,11 @@
+database:
+  host: "localhost"
+  port: 3306
+  username: "root"
+  password: "password"
+  database: "usergg"
+  pool-size: 10
+
+kick-message:
+- "Your UUID is {uuid}"
+- "Your token is {token}"
